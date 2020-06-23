@@ -1,0 +1,150 @@
+ul{
+    list-style-type: circle
+}
+ol{
+    list-style-type: upper-roman;
+}
+.ul2{
+    list-style-type: none;
+}
+.list1{
+    border: 2px solid red;
+    list-style-type: circle;
+    list-style-position: inside;
+    
+}
+.ul3{
+    list-style-type: square;
+    list-style-image: url(hasibul.jpg);
+}
+.test1{
+    border: 2px solid blue;
+    height: 500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    background-repeat: repeat;
+}
+.test1,p{
+    margin: 0;
+    color: white;
+}
+.test2{
+    border: 2px solid blue;
+    height: 500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 20px;
+}
+.test3{
+    border: 2px solid blue;
+    height: 500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    color: white;
+    margin-top: 20px;
+    background-repeat: repeat-x;
+}
+.test4{
+    border: 2px solid blue;
+    height: 500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    color: white;
+    margin-top: 20px;
+    background-repeat: repeat-y;
+}
+.test5{
+    border: 2px solid blue;
+    height: 500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    color: white;
+    margin-top: 20px;
+    background-repeat: space;
+}
+.test6{
+    border: 2px solid blue;
+    height: 500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    color: white;
+    margin-top: 20px;
+    background-repeat: round;
+}
+.test7{
+    border: 2px solid blue;
+    height: 1500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    color: white;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 50px;
+    
+}
+.test8{
+    border: 2px solid blue;
+    height: 500px;
+    width: 100%;
+    background-image: url(nature%20img.jpg);
+    color: white;
+    margin-top: 20px;
+    background-repeat: round;
+}
+.test9{
+    height: 500px;
+    width: 100%;
+    border: 2px solid;
+    margin-top: 100px;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    background-position: 10% 40%;
+}
+.test10{
+    height: 400px;
+    width: 400px;
+    border: 2px solid;
+    margin-top: 100px;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.test11{
+    height: 400px;
+    width: 400px;
+    border: 20px dotted;
+    padding: 30px;
+    margin-top: 10px;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    box-sizing: border-box;
+    background-size: 100% 100%;
+}
+.test12{
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    border: 10px dotted;
+    padding: 30px;
+    margin-top: 10px;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    
+}
+.para{
+    font-size: 50px;
+    font-weight: bold;
+    background-image: url(nature%20img.jpg);
+    background-repeat: no-repeat;
+    color: transparent;
+    -webkit-background-clip: text;
+    
+}
+    
+    
